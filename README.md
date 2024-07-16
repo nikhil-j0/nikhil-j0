@@ -10,8 +10,10 @@ You can click the Preview link to take a look at your changes.
 ### I have technical Experience and Interest in:
 
 * Software Development
+* WEB Development
 * Machine Learning
 * DevOps Tools
 * Deep Learning
 * Computer Vision
 * Natural Language Processing
+* Artificial Neural Network
